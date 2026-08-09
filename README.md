@@ -7,9 +7,10 @@ A lightweight mod manager for **any game**. Direct-deploy architecture — no vi
 
 ---
 
-## ⚠️ Active Development
+## Cancelled Development
 
-TMM is under active heavy development. Architecture is still in flux — expect breaking changes between builds. External PRs are not accepted yet (wait for v1.0 stabilization). Bug reports with logs are always welcome.
+The project is cancelled for now because of feature creep & lack of time/interest/ability.
+Feel free to fork, there is some valuable work here.
 
 ---
 
